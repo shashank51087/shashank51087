@@ -1,9 +1,10 @@
-**SRE engineer with a knack for Automation and a proven track record in System Admin, SRE & Kubernetes Admin (Deployment, Configuration, Support, Testing, Maintenance and User Administration)**
+**SRE engineer with a knack for Automation and a proven track record in System Admin, SRE & Kubernetes Admin 
+(Deployment, Configuration, Support, Testing, Maintenance and User Administration)**
 
 - 👋 Hi, I’m shashank Khanduja
 - 👀 I’m interested in SRE, Devops, Kubernetes 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to do Cycling & Trekking 
+- ⚡ Fun Fact: I love to do Cycling & Trekking 
 
 <!---
 shashank51087/shashank51087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
