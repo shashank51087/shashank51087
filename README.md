@@ -1,7 +1,7 @@
 **SRE engineer with a knack for Automation and a proven track record in System Admin, SRE & Kubernetes Admin 
 (Deployment, Configuration, Support, Testing, Maintenance and User Administration)**
 
-- 👋 Hi, I’m shashank Khanduja
+- 👋 Hi, I’m Shashank Khanduja
 - 👀 I’m interested in SRE, Devops, Kubernetes 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun Fact: I love to do Cycling & Trekking 
